@@ -1,2 +1,4 @@
 Hola I'm from Mars. Which planet are you from?
 How hot is it there?
+Or, conversely, cold?
+
